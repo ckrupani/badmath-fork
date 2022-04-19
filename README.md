@@ -1,3 +1,3 @@
 # badmath
 
-Bad math for learning good. 
+Bad math for learning good in my forked repository.
